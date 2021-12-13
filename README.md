@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @satyadeepS7
 - 👀 I’m interested in AI ML DL NLP CV
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate with AI enthusiastic creative people
-- 📫 Reach me through whatsapp 8576027096 
+- 💞️ I’m looking to collaborate with AI enthusiastic creative people 
 
 <!---
 satyadeepS7/satyadeepS7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
